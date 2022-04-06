@@ -10,11 +10,11 @@
     <distributionManagement>
         <repository>
             <id>github</id>
-            <name>GitHub ManjunathPrabhakar Apache Maven Packages</name>
-            <url>https://maven.pkg.github.com/ManjunathPrabhakar/github-example-package</url>
+            <name>Apache Maven Packages</name>
+            <url>https://maven.pkg.github.com/hopin-team/github-example-package</url>
         </repository>
     </distributionManagement>
-    <developers>
+<!--     <developers>
         <developer>
             <name>Manjunath Prabhakar</name>
             <email>manjunath189@gmail.com</email>
@@ -29,7 +29,7 @@
         </developerConnection>
         <url>https://github.com/ManjunathPrabhakar/github-example-package</url>
         <tag>github-example-package</tag>
-    </scm>
+    </scm> -->
 
     <build>
         <pluginManagement>
